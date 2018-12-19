@@ -1,4 +1,4 @@
-# Gender Demography of covers of Time magazine from 1923-2013
+# Gender Demography on covers of Time from 1923-2013
 
 
 This data visualization project gives an overview on how the gender fairness was maintained or neglected by [Time](http://time.com/), one of the most popular media magazines in recent times, on the cover pictures of their issues over a period of 80 years, since their advent. 
