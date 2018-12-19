@@ -9,4 +9,4 @@ This data visualization project gives an overview on how the gender fairness was
 - The official blog post about this project is [here](). 
 - The Kaggle Notebook for this project is [here](https://www.kaggle.com/bidyutchanda/does-time-prefer-men-or-women-on-their-covers).
 - The dataset which has been used for this is [here](https://www.kaggle.com/bidyutchanda/cover-pictures-of-time).
-- The .ipynb file for this project is located in this repo, but the [blog post]() sheds more light on the actual result comparison part. 
+- The Jupyter notebook for this project is located in this repo, but the [blog post]() sheds more light on the actual result comparison part. 
